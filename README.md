@@ -1,4 +1,4 @@
-## Olá Meu nome é Davi Oliveira, desenvolvedor de aplicativos mobile - Flutter
+## Olá Meu nome é Davi Oliveira, desenvolvedor full stack
 <div align="center">
   <a href="https://github.com/davi-oliver">
 <!--     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davi-oliver&show_icons=true&theme=dracula&include_all_commits=true"/> -->
