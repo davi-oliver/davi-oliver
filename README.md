@@ -2,7 +2,7 @@
 <div align="center">
   <a href="https://github.com/davi-oliver">
 <!--     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davi-oliver&show_icons=true&theme=dracula&include_all_commits=true"/> -->
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi-oliver&layout=compact&theme=dracula"/>
+    
 </div>
  
 <div style="display: inline_block"><br>
